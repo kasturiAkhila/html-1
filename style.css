@@ -1,0 +1,145 @@
+*{
+	font-family: montserrat;
+}
+.nav-sign{
+	margin-left: 130px;
+}
+.nav-item{
+	padding: 10px;
+}
+svg{
+	margin-left: 10px;
+}
+#shop{
+	margin-left: 75px;
+	margin-top: 150px;
+	background-color: 
+}
+h1{
+	font-size: 280%;
+}
+#art{
+	background-color: #F3468B;
+	width: 100%;
+}
+body{
+	background-color: #EEB5B5;
+
+}
+#search-bar{
+	border-color: black;
+}
+#search{
+	background-color:#EEB5B5;
+	border-color: black; 
+	
+}
+
+.col-sm-4{
+	height: 75mm;
+	background-size: contain;
+	background-image: url("img1.jpg");
+	background-repeat: no-repeat;
+	margin: 0px;
+	border-image: 20% round;
+}
+.col-sm-4:hover{
+	width:-50px;
+	height: 70mm;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("img2.jpg");
+margin: 0px;
+}
+#img-hover{
+	margin-left: 750px;
+	margin-top: -300px;
+
+}
+#shop-now{
+	background-color:  #F3468B;
+	margin-left: 180px;
+	margin-bottom: 50px;
+	border: none;
+}
+.no-margin{
+	margin: 0px;
+	padding: 0px;
+}
+background: linear-gradient(to left, #ffc3a0, #FFAFBD ); 
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 4em;
+}
+img {
+	height: 300px;
+}
+.cardholder {
+  margin-top: 100px;
+          perspective: 600px;
+}
+.card {
+  width: 300px;
+  height: 300px;
+  background-color: transparent;
+          transform: rotateY(50deg);
+  box-shadow: -6px 5px 13px 2px rgba(0, 0, 0, 0.25);
+	transition: all 1s ease;
+  color: transparent;
+}
+.card:hover {
+  width: 300px;
+  height: 300px;
+  background-color: transparent;
+          transform: rotateY(0deg);
+  box-shadow: 0px 0px 36px 2px rgba(0, 0, 0, 0.25);
+  color: black;
+}
+.card:hover p {
+  background-color: white;
+}
+p.desc {
+  z-index:999;
+  position: absolute;
+  top: 10px;
+  padding: 10px;
+}
+p.desc:hover {
+}
+footer{
+	margin-top: 80px;
+	background-color: #F3468B;
+	margin-left: -107px;
+	margin-right: -107px;
+}
+ul{
+	list-style-type: none;
+
+	margin-top: 10px;
+}
+li a{
+	color: black;
+
+}
+
+a:hover{
+	color: #EEB5B5;
+}
+.copyrights{
+	margin-left: 520px;
+	font-size: 10px;
+	margin-bottom: 5px;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.button{
+	background-color:  #F3468B;
+	border: 2px solid black;
+    border-radius: 4px;
+	height: 40px;
+  }
